@@ -1,0 +1,44 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: slateblue;
+    margin: 120px;
+    width: 70%;
+}
+a{
+    text-decoration: none;
+    color: grey;
+}
+.name a{
+    color: black;
+}
+.ab{
+    color: black;
+}
+.about{
+    width: 50%;
+}
+.experience{
+    float: right;
+    margin-top: -370px;
+    margin-left: 20px;
+    color: black;
+}
+.links{
+    float: right;
+    margin-top: -40px;
+    margin-left: 200px;
+}
+.links a{
+    margin-right: 30px;
+}
+.a,.b,.c,.d,.e{
+    float: right;
+    color: grey;
+    margin-left: 60px;
+}
+.spk, .usable{
+    color: black;
+}
+.footer{
+    margin-top: 150px;
+}
